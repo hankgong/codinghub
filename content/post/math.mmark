@@ -1,0 +1,14 @@
++++
+title = "mathpost"
+draft = true
+date = "2017-08-10T08:05:00-04:00"
+
++++
+
+Hello `$x^2=y^2$` World
+
+Hello $$a^2=b^2$$ World
+
+<div>$$ x^2 = y^2 $$</div>
+
+$$ a^2 = b^2 $$
