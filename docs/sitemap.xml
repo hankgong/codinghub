@@ -3,17 +3,65 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://hankgong.github.io/codinghub/post/secondpost/</loc>
+    <lastmod>2017-08-10T08:18:12-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hankgong.github.io/codinghub/post/firstpost/</loc>
+    <lastmod>2017-08-10T08:05:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hankgong.github.io/codinghub/post/math/</loc>
+    <lastmod>2017-08-10T08:05:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hankgong.github.io/codinghub/categories/c1/</loc>
+    <lastmod>2017-08-10T08:05:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hankgong.github.io/codinghub/categories/c2/</loc>
+    <lastmod>2017-08-10T08:05:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://hankgong.github.io/codinghub/categories/</loc>
+    <lastmod>2017-08-10T08:05:00-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://hankgong.github.io/codinghub/</loc>
+    <lastmod>2017-08-10T08:18:12-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hankgong.github.io/codinghub/post/</loc>
+    <lastmod>2017-08-10T08:18:12-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hankgong.github.io/codinghub/tags/t1/</loc>
+    <lastmod>2017-08-10T08:05:00-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://hankgong.github.io/codinghub/tags/</loc>
+    <lastmod>2017-08-10T08:05:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hankgong.github.io/codinghub/tags/test/</loc>
+    <lastmod>2017-08-10T08:05:00-04:00</lastmod>
     <priority>0</priority>
   </url>
   
