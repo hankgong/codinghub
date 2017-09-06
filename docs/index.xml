@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hank&#39;s Cyberton</title>
-    <link>/</link>
+    <link>https://hankgong.github.io/codinghub/</link>
     <description>Recent content on Hank&#39;s Cyberton</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hankgong.github.io/codinghub/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
