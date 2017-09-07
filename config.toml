@@ -1,4 +1,4 @@
-baseurl = "https://hankgong.github.io/codinghub/"
+baseurl = "http://codinghub.geekylife.net"
 title = "Hank's Cyberton"
 languageCode = "en-us"
 paginate = "15" # Number of posts per page
