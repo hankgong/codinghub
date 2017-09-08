@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sitebuildings on Hank&#39;s Cyberton</title>
+    <link>http://codinghub.geekylife.net/sitebuilding/</link>
+    <description>Recent content in Sitebuildings on Hank&#39;s Cyberton</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 07 Sep 2017 10:43:32 -0400</lastBuildDate>
+    
+	<atom:link href="http://codinghub.geekylife.net/sitebuilding/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Build Static Website with Hugo, Github and Namecheap</title>
+      <link>http://codinghub.geekylife.net/sitebuilding/hugo_github_namecheap/</link>
+      <pubDate>Thu, 07 Sep 2017 10:43:32 -0400</pubDate>
+      
+      <guid>http://codinghub.geekylife.net/sitebuilding/hugo_github_namecheap/</guid>
+      <description>Everybody knows Wordpress can be used to build a blog for free. Why would you bother to find another way to host a web if you Wordpress is so good. The catch of Wordpress is that you are OK with the limited choice of themes available for free users and the over-complicated CMS. After all, a geeky software developer would like to play and tweak its website as a toy, right?</description>
+    </item>
+    
+  </channel>
+</rss>

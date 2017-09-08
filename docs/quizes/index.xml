@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quizes on Hank&#39;s Cyberton</title>
+    <link>http://codinghub.geekylife.net/quizes/</link>
+    <description>Recent content in Quizes on Hank&#39;s Cyberton</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 07 Sep 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://codinghub.geekylife.net/quizes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Trailing Zeros</title>
+      <link>http://codinghub.geekylife.net/quizes/lintcode.trailing.zeros/</link>
+      <pubDate>Thu, 07 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://codinghub.geekylife.net/quizes/lintcode.trailing.zeros/</guid>
+      <description>Number of 5s + number of 5x5s + number of 5x5x5&amp;hellip;
+1 class Solution: 2 # @param n a integer 3  # @return ans a integer 4  def trailingZeros(self, n): 5  ret = 0 6  div = 5 7  r = n/div 8  9  while r &amp;gt; 0: 10  r = n/div 11  div *= 5 12  ret += r 13  14  return ret  </description>
+    </item>
+    
+  </channel>
+</rss>

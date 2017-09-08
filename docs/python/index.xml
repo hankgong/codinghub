@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pythons on Hank&#39;s Cyberton</title>
+    <link>http://codinghub.geekylife.net/python/</link>
+    <description>Recent content in Pythons on Hank&#39;s Cyberton</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 07 Sep 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://codinghub.geekylife.net/python/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Collections OrderedDict</title>
+      <link>http://codinghub.geekylife.net/python/ordered.dict/</link>
+      <pubDate>Thu, 07 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://codinghub.geekylife.net/python/ordered.dict/</guid>
+      <description>OrderedDict keeps its entries sorted as they are initially inserted. Overwriting a value of an existing key doesn’t change the position of that key. However, deleting and reinserting an entry moves the key to the end of the dictionary.</description>
+    </item>
+    
+  </channel>
+</rss>

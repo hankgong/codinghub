@@ -3,6 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://codinghub.geekylife.net/sitebuilding/hugo_github_namecheap/</loc>
+    <lastmod>2017-09-07T10:43:32-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://codinghub.geekylife.net/testpage/</loc>
+    <lastmod>2017-09-07T08:05:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://codinghub.geekylife.net/cpp/kernel.basic/</loc>
+    <lastmod>2017-09-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://codinghub.geekylife.net/python/ordered.dict/</loc>
+    <lastmod>2017-09-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://codinghub.geekylife.net/quizes/lintcode.trailing.zeros/</loc>
+    <lastmod>2017-09-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://codinghub.geekylife.net/post/secondpost/</loc>
     <lastmod>2017-08-10T08:18:12-04:00</lastmod>
   </url>
@@ -19,25 +44,61 @@
   
   <url>
     <loc>http://codinghub.geekylife.net/categories/c1/</loc>
-    <lastmod>2017-08-10T08:05:00-04:00</lastmod>
+    <lastmod>2017-09-07T08:05:00-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://codinghub.geekylife.net/categories/c2/</loc>
-    <lastmod>2017-08-10T08:05:00-04:00</lastmod>
+    <lastmod>2017-09-07T08:05:00-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://codinghub.geekylife.net/categories/</loc>
-    <lastmod>2017-08-10T08:05:00-04:00</lastmod>
+    <lastmod>2017-09-07T08:05:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://codinghub.geekylife.net/cpp/</loc>
+    <lastmod>2017-09-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://codinghub.geekylife.net/tags/git/</loc>
+    <lastmod>2017-09-07T10:43:32-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://codinghub.geekylife.net/</loc>
-    <lastmod>2017-08-10T08:18:12-04:00</lastmod>
+    <lastmod>2017-09-07T10:43:32-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://codinghub.geekylife.net/tags/host/</loc>
+    <lastmod>2017-09-07T10:43:32-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://codinghub.geekylife.net/tags/html/</loc>
+    <lastmod>2017-09-07T10:43:32-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://codinghub.geekylife.net/tags/hugo/</loc>
+    <lastmod>2017-09-07T10:43:32-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://codinghub.geekylife.net/categories/lintcode/</loc>
+    <lastmod>2017-09-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -48,20 +109,50 @@
   </url>
   
   <url>
+    <loc>http://codinghub.geekylife.net/python/</loc>
+    <lastmod>2017-09-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://codinghub.geekylife.net/tags/q-easy/</loc>
+    <lastmod>2017-09-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://codinghub.geekylife.net/tags/q-math/</loc>
+    <lastmod>2017-09-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://codinghub.geekylife.net/quizes/</loc>
+    <lastmod>2017-09-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://codinghub.geekylife.net/sitebuilding/</loc>
+    <lastmod>2017-09-07T10:43:32-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://codinghub.geekylife.net/tags/t1/</loc>
-    <lastmod>2017-08-10T08:05:00-04:00</lastmod>
+    <lastmod>2017-09-07T08:05:00-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://codinghub.geekylife.net/tags/</loc>
-    <lastmod>2017-08-10T08:05:00-04:00</lastmod>
+    <lastmod>2017-09-07T10:43:32-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://codinghub.geekylife.net/tags/test/</loc>
-    <lastmod>2017-08-10T08:05:00-04:00</lastmod>
+    <lastmod>2017-09-07T08:05:00-04:00</lastmod>
     <priority>0</priority>
   </url>
   

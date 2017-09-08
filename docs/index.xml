@@ -6,10 +6,56 @@
     <description>Recent content on Hank&#39;s Cyberton</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 10 Aug 2017 08:18:12 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 07 Sep 2017 10:43:32 -0400</lastBuildDate>
     
 	<atom:link href="http://codinghub.geekylife.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Build Static Website with Hugo, Github and Namecheap</title>
+      <link>http://codinghub.geekylife.net/sitebuilding/hugo_github_namecheap/</link>
+      <pubDate>Thu, 07 Sep 2017 10:43:32 -0400</pubDate>
+      
+      <guid>http://codinghub.geekylife.net/sitebuilding/hugo_github_namecheap/</guid>
+      <description>Everybody knows Wordpress can be used to build a blog for free. Why would you bother to find another way to host a web if you Wordpress is so good. The catch of Wordpress is that you are OK with the limited choice of themes available for free users and the over-complicated CMS. After all, a geeky software developer would like to play and tweak its website as a toy, right?</description>
+    </item>
+    
+    <item>
+      <title>LIfe is precious</title>
+      <link>http://codinghub.geekylife.net/testpage/</link>
+      <pubDate>Thu, 07 Sep 2017 08:05:00 -0400</pubDate>
+      
+      <guid>http://codinghub.geekylife.net/testpage/</guid>
+      <description>test page.</description>
+    </item>
+    
+    <item>
+      <title>Basic Kernel Programming</title>
+      <link>http://codinghub.geekylife.net/cpp/kernel.basic/</link>
+      <pubDate>Thu, 07 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://codinghub.geekylife.net/cpp/kernel.basic/</guid>
+      <description>When the first caveman programmer chiseled the first program on the walls of the first cave computer, it was a program to paint the string Hello, world&#39; in Antelope pictures. Roman programming textbooks began with theSalut, Mundi&amp;rsquo; program. I don&amp;rsquo;t know what happens to people who break with this tradition, but I think it&amp;rsquo;s safer not to find out. We&amp;rsquo;ll start with a series of hello world programs that demonstrate the different aspects of the basics of writing a kernel module.</description>
+    </item>
+    
+    <item>
+      <title>Collections OrderedDict</title>
+      <link>http://codinghub.geekylife.net/python/ordered.dict/</link>
+      <pubDate>Thu, 07 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://codinghub.geekylife.net/python/ordered.dict/</guid>
+      <description>OrderedDict keeps its entries sorted as they are initially inserted. Overwriting a value of an existing key doesn’t change the position of that key. However, deleting and reinserting an entry moves the key to the end of the dictionary.</description>
+    </item>
+    
+    <item>
+      <title>Trailing Zeros</title>
+      <link>http://codinghub.geekylife.net/quizes/lintcode.trailing.zeros/</link>
+      <pubDate>Thu, 07 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://codinghub.geekylife.net/quizes/lintcode.trailing.zeros/</guid>
+      <description>Number of 5s + number of 5x5s + number of 5x5x5&amp;hellip;
+1 class Solution: 2 # @param n a integer 3  # @return ans a integer 4  def trailingZeros(self, n): 5  ret = 0 6  div = 5 7  r = n/div 8  9  while r &amp;gt; 0: 10  r = n/div 11  div *= 5 12  ret += r 13  14  return ret  </description>
+    </item>
     
     <item>
       <title>secondpost</title>
