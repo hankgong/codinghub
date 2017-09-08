@@ -4,7 +4,6 @@ draft = true
 date = "2017-08-10T08:05:00-04:00"
 Tags = ["Test", "T1"]
 Categories = ["C1", "C2"]
-menu = "main"
 +++
 
 This is a test page. \\(a^2=c\\)

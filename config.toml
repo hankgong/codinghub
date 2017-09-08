@@ -40,3 +40,37 @@ publishDir = "docs"
     social_linkedin = ""
     social_github = "hankgong"
     social_email = ""
+
+[menu]
+    [[menu.main]]
+    identifier = "sitebuilding"
+    name       = "Site building"
+    url        = "/sitebuilding/"
+    weight     = 0
+
+    [[menu.main]]
+    identifier = "python"
+    name       = "Python"
+    url        = "/Python/"
+    weight     = 20
+
+    [[menu.main]]
+    identifier = "cpp"
+    name       = "C&C++"
+    url        = "/cpp/"
+    weight     = 30
+
+    [[menu.main]]
+    identifier = "random"
+    name       = "Random"
+    url        = "/post/"
+    weight     = 40
+
+    [[menu.main]]
+    identifier = "quizes"
+    name       = "Quizes"
+    url        = "/Quizes/"
+    weight     = 10
+
+   
+
