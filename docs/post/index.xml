@@ -6,40 +6,17 @@
     <description>Recent content in Posts on Hank&#39;s Cyberton</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 10 Aug 2017 08:18:12 -0400</lastBuildDate>
     
 	<atom:link href="http://codinghub.geekylife.net/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>secondpost</title>
-      <link>http://codinghub.geekylife.net/post/secondpost/</link>
-      <pubDate>Thu, 10 Aug 2017 08:18:12 -0400</pubDate>
+      <title>test</title>
+      <link>http://codinghub.geekylife.net/post/xirr.calculate.annual.return.rate/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://codinghub.geekylife.net/post/secondpost/</guid>
-      <description>Here is what going on.</description>
-    </item>
-    
-    <item>
-      <title>firstpost</title>
-      <link>http://codinghub.geekylife.net/post/firstpost/</link>
-      <pubDate>Thu, 10 Aug 2017 08:05:00 -0400</pubDate>
-      
-      <guid>http://codinghub.geekylife.net/post/firstpost/</guid>
-      <description>This is a test page. \(a^2=c\)
-$$b+c$$
-$$a^2$$ 1 for i in range(10): 2 print &amp;quot;fuck you&amp;quot; 3  4 str = &amp;quot;fdfd&amp;quot; 5  6 def hello_world(): 7  print &amp;quot;Hello there!&amp;quot;  </description>
-    </item>
-    
-    <item>
-      <title>mathpost</title>
-      <link>http://codinghub.geekylife.net/post/math/</link>
-      <pubDate>Thu, 10 Aug 2017 08:05:00 -0400</pubDate>
-      
-      <guid>http://codinghub.geekylife.net/post/math/</guid>
-      <description>Hello $x^2=y^2$ World
-Hello \(a^2=b^2\) World
-$$ x^2 = y^2 $$ \[ a^2 = b^2 \]</description>
+      <guid>http://codinghub.geekylife.net/post/xirr.calculate.annual.return.rate/</guid>
+      <description>a new page I developed</description>
     </item>
     
   </channel>

@@ -14,7 +14,7 @@ $$b+c$$
 
 {{< highlight python "linenos=inline,hl_lines=1 2">}}
 for i in range(10):
-    print "fuck you"
+    print "hello world"
 
 str = "fdfd"
 

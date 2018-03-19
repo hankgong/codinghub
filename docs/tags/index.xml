@@ -6,46 +6,10 @@
     <description>Recent content in Tags on Hank&#39;s Cyberton</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 07 Sep 2017 10:43:32 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 07 Sep 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://codinghub.geekylife.net/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Git</title>
-      <link>http://codinghub.geekylife.net/tags/git/</link>
-      <pubDate>Thu, 07 Sep 2017 10:43:32 -0400</pubDate>
-      
-      <guid>http://codinghub.geekylife.net/tags/git/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Host</title>
-      <link>http://codinghub.geekylife.net/tags/host/</link>
-      <pubDate>Thu, 07 Sep 2017 10:43:32 -0400</pubDate>
-      
-      <guid>http://codinghub.geekylife.net/tags/host/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Html</title>
-      <link>http://codinghub.geekylife.net/tags/html/</link>
-      <pubDate>Thu, 07 Sep 2017 10:43:32 -0400</pubDate>
-      
-      <guid>http://codinghub.geekylife.net/tags/html/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hugo</title>
-      <link>http://codinghub.geekylife.net/tags/hugo/</link>
-      <pubDate>Thu, 07 Sep 2017 10:43:32 -0400</pubDate>
-      
-      <guid>http://codinghub.geekylife.net/tags/hugo/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Q Easy</title>
@@ -62,24 +26,6 @@
       <pubDate>Thu, 07 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>http://codinghub.geekylife.net/tags/q-math/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>T1</title>
-      <link>http://codinghub.geekylife.net/tags/t1/</link>
-      <pubDate>Thu, 07 Sep 2017 08:05:00 -0400</pubDate>
-      
-      <guid>http://codinghub.geekylife.net/tags/t1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Test</title>
-      <link>http://codinghub.geekylife.net/tags/test/</link>
-      <pubDate>Thu, 07 Sep 2017 08:05:00 -0400</pubDate>
-      
-      <guid>http://codinghub.geekylife.net/tags/test/</guid>
       <description></description>
     </item>
     
